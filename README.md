@@ -119,7 +119,6 @@ linked-list-c/
 ├── doubly.c           \# Doubly linked list implementation
 ├── circular.c         \# Circular linked list implementation
 ├── circular_doubly.c  \# Circular doubly linked list implementation
-├── benchmark.c        \# Performance comparison with arrays (optional)
 └── README.md          \# This documentation
 
 ```
