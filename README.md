@@ -56,16 +56,32 @@ NULL ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ NULL
 
 **Singly Linked List (Stack)**
 
-<pre lang="c"> 
-  struct node { 
+<pre lang="c">struct node { 
   int data;
   struct node *link;
   }; </pre>
 
 **Circular Linked List (Stack)**
+
 <pre lang="c">struct node { 
   int data;
   struct node *link;
+  };</pre>
+
+**Doubly Linked List (Stack)**
+
+<pre lang="c">struct node {
+  int data;
+  struct node *prev;
+  struct node *next;
+  };</pre>
+
+**Circular Doubly Linked List (Stack)**
+
+<pre lang="c">struct node {
+  int data;
+  struct node *prev;
+  struct node *next;
   };</pre>
 
 
