@@ -52,6 +52,10 @@ NULL ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ NULL
 
 ---
 
+**Structures**
+**Singly Linked List (Stack)**
+
+<pre lang="c"> ```c struct node { int data; struct node *link; }; ``` </pre>
 
 
 ## Performance Analysis
