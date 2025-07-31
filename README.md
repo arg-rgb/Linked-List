@@ -63,10 +63,10 @@ NULL ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ NULL
   }; </pre>
 
 **Circular Linked List (Stack)**
-<pre lang="c"> ```c struct node { 
+<pre lang="c">struct node { 
   int data;
   struct node *link;
-  }; ``` </pre>
+  };</pre>
 
 
 ## Performance Analysis
