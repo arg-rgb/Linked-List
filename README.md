@@ -1,10 +1,5 @@
 # Linked List Implementations in C
 
-**Author**: [Your Name]
-
-**Last updated**: July 31, 2025
-
----
 
 ## Overview
 
@@ -57,40 +52,7 @@ NULL ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ [Prev|Data|Next] ⇄ NULL
 
 ---
 
-## Installation
 
-Clone this repository, if you are hosting it on GitHub (replace `<your-repo-url>` with your actual repo):
-
-```
-
-git clone <your-repo-url>
-cd linked-list-c
-
-```
-
----
-
-## Usage
-
-Each implementation is provided as a separate `.c` file. To compile and run:
-
-```
-
-gcc singly.c -o singly
-./singly
-
-gcc doubly.c -o doubly
-./doubly
-
-gcc circular.c -o circular
-./circular
-
-gcc circular_doubly.c -o circular_doubly
-./circular_doubly
-
-```
-
----
 
 ## Performance Analysis
 
@@ -139,14 +101,11 @@ Issues, feature requests, and pull requests are welcome! Please ensure your chan
 
 ---
 
-## References
+**Author**: Argha Ghosh.
+**Email**: tojog75@gmail.com
 
-- [GeeksforGeeks: Linked List in C]
-- [Data Structures and Algorithms textbooks]
-- **Example GitHub projects**:  
-  - Simple C implementations by BaseMax  
-  - Doubly linked list by clibs/list
-
+**Last updated**: July 31, 2025
+For questions or support, please open an issue in the repository or contact [tojog75@gmail.com].
 ---
 
 
