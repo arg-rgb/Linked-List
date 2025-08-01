@@ -131,7 +131,7 @@ Issues, feature requests, and pull requests are welcome! Please ensure your chan
 
 ---
 
-**Author**: Argha Ghosh.
+**Author**: Argha Ghosh.<br>
 **Email**: tojog75@gmail.com
 
 **Last updated**: July 31, 2025
